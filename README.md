@@ -35,6 +35,3 @@ Adding slicers this time was a deliberate shift from the earlier static dashboar
 Power BI, DAX
 
 
-- `/data` — dataset (pre-cleaned)
-- `/powerbi` — .pbix dashboard file
-- `/screenshots` — dashboard preview images (default view and slicer panel view)
